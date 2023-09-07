@@ -3,6 +3,7 @@
 [![Rubik's Cube]([https://example.com/rubiks-cube.jpg](https://upload.wikimedia.org/wikipedia/commons/6/61/Rubiks_cube_solved.jpg))](https://en.wikipedia.org/wiki/Rubik%27s_Cube)
 
 
+
 ## Welcome
 
 Welcome to the Rubik's Cube Simulator! This project allows you to interact with a 3D representation of a Rubik's Cube and manipulate it just like you would in real life. Whether you're a Rubik's Cube enthusiast or simply looking for a fun 3D modeling and interaction project, this simulator is for you.
