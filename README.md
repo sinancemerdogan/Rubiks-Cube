@@ -1,6 +1,7 @@
 # Rubik's Cube Simulator
 
-[![Rubik's Cube]([https://example.com/rubiks-cube.jpg](https://upload.wikimedia.org/wikipedia/commons/6/61/Rubiks_cube_solved.jpg))](https://en.wikipedia.org/wiki/Rubik%27s_Cube)
+[![Rubik's Cube](https://upload.wikimedia.org/wikipedia/commons/6/61/Rubiks_cube_solved.jpg)](https://en.wikipedia.org/wiki/Rubik%27s_Cube)
+
 
 
 
