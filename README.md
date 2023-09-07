@@ -1,6 +1,6 @@
 # Rubik's Cube Simulator
 
-![Rubik's Cube](rubiks-cube-image.jpg)
+![Rubik's Cube]([rubiks-cube-image.jpg](https://images.pexels.com/photos/54101/magic-cube-cube-puzzle-play-54101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1))
 
 ## Welcome
 
